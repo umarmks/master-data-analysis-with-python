@@ -1,0 +1,5 @@
+date,kind,note,impact
+2025-08-12,outage,tracking pipeline down,-0.38
+2025-08-15,recovery,tracking restored,0.29
+2025-03-01,campaign,spring promotion,0.11
+2025-11-28,campaign,black Friday,0.34

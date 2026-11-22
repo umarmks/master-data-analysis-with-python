@@ -1,0 +1,42 @@
+{
+  "store_id": "S-01",
+  "name": "Kestrel Chicago Loop",
+  "opened": "2019-04-12",
+  "address": {
+    "street": "145 W Madison St",
+    "city": "Chicago",
+    "region": "Midwest",
+    "postal": "60602"
+  },
+  "staff": [
+    {
+      "role": "manager",
+      "name": "R. Okafor",
+      "since": "2019-04-12"
+    },
+    {
+      "role": "associate",
+      "name": "L. Nguyen",
+      "since": "2021-06-01"
+    },
+    {
+      "role": "associate",
+      "name": "D. Petrov",
+      "since": "2023-09-15"
+    }
+  ],
+  "monthly_net": [
+    {
+      "month": "2026-01",
+      "net": 118220.4
+    },
+    {
+      "month": "2026-02",
+      "net": 112005.1
+    },
+    {
+      "month": "2026-03",
+      "net": 124510.75
+    }
+  ]
+}

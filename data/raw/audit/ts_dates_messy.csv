@@ -1,0 +1,26 @@
+raw,kind
+2026-01-01,iso
+2026-01-02,iso
+2026-01-03,iso
+2026-01-04,iso
+2026-01-05,iso
+2026-01-06,iso
+02/01/2026,us
+02/02/2026,us
+02/03/2026,us
+02/04/2026,us
+02/05/2026,us
+02/06/2026,us
+20260301,compact
+20260302,compact
+20260303,compact
+20260304,compact
+20260305,compact
+20260306,compact
+not a date,junk
+2026-02-30,junk
+2026-03-07 12:00:00,local_timestamp
+2026-03-08 12:00:00,local_timestamp
+2026-03-09 12:00:00,local_timestamp
+2026-11-01 12:00:00,local_timestamp
+2026-11-02 12:00:00,local_timestamp

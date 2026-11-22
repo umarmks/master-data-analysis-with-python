@@ -1,0 +1,5 @@
+{"campaign_id": "CMP-01", "name": "Spring Trailhead", "channel": "email", "start": "2026-03-01", "end": "2026-03-21", "budget": 12000.0, "clicks": 8420, "conversions": 311}
+{"campaign_id": "CMP-02", "name": "Summit Boot Launch", "channel": "social", "start": "2026-02-10", "end": "2026-03-02", "budget": 24000.0, "clicks": 15310, "conversions": 402}
+{"campaign_id": "CMP-03", "name": "Return to Camp", "channel": "search", "start": "2026-03-05", "end": "2026-04-01", "budget": 18000.0, "clicks": 11220, "conversions": 508}
+{"campaign_id": "CMP-04", "name": "Loyalty Double Points", "channel": "email", "start": "2026-01-15", "end": "2026-02-14", "budget": 4000.0, "clicks": 6100, "conversions": 260}
+{"campaign_id": "CMP-05", "name": "Weekend Flash", "channel": "social", "start": "2026-03-22", "end": "2026-03-24", "budget": 3500.0, "clicks": 9800, "conversions": 190}

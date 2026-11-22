@@ -1,0 +1,5 @@
+segment,group,successes,trials
+A_easy,treatment,81,90
+A_easy,control,234,270
+B_hard,treatment,192,270
+B_hard,control,55,90

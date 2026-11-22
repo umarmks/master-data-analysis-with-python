@@ -1,0 +1,40 @@
+P-1001  Ridge Tent              Camping          58.53
+P-1002  Trail Lantern           Camping          88.29
+P-1003  Sleeping Bag            Camping          44.63
+P-1004  Camp Stove              Camping         137.93
+P-1005  Hiking Pole             Camping          34.73
+P-1006  Ridge Tent              Camping         167.68
+P-1007  Trail Lantern           Camping          54.56
+P-1008  Sleeping Bag            Camping         346.38
+P-1009  Camp Stove              Camping        1285.90
+P-1010  Hiking Pole             Camping          44.63
+P-2001  Trail Runner            Footwear         58.50
+P-2002  Summit Boot             Footwear         78.33
+P-2003  River Sandal            Footwear         48.58
+P-2004  Trail Shoe              Footwear         98.14
+P-2005  Alpine Boot             Footwear        117.96
+P-2006  Trail Runner            Footwear         68.40
+P-2007  Summit Boot             Footwear         54.47
+P-2008  River Sandal            Footwear        147.79
+P-2009  Trail Shoe              Footwear         88.22
+P-2010  Alpine Boot             Footwear         38.60
+P-3001  Alpine Jacket           Apparel          35.31
+P-3002  Storm Shell             Apparel          45.38
+P-3003  Base Layer              Apparel          29.25
+P-3004  Fleece Vest             Apparel          69.65
+P-3005  Rain Pant               Apparel          79.67
+P-3006  Alpine Jacket           Apparel          55.51
+P-3007  Storm Shell             Apparel          35.32
+P-3008  Base Layer              Apparel          99.92
+P-3009  Fleece Vest             Apparel          69.59
+P-3010  Rain Pant               Apparel          25.22
+P-4001  Daypack                 Accessories      19.15
+P-4002  Water Bottle            Accessories      29.25
+P-4003  Headlamp                Accessories      15.12
+P-4004  Trek Pole               Accessories      39.32
+P-4005  Dry Bag                 Accessories      45.35
+P-4006  Daypack                 Accessories      25.22
+P-4007  Water Bottle            Accessories      35.30
+P-4008  Headlamp                Accessories      59.42
+P-4009  Trek Pole               Accessories      69.56
+P-4010  Dry Bag                 Accessories      12.10

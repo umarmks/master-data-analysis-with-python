@@ -1,0 +1,101 @@
+customer_id,customer_name,tier
+C-000001,Customer 1,Bronze
+c-000001,Customer 1,Gold
+ C-000001,Customer 1,Gold
+C-000001 ,Customer 1,Silver
+C-1,Customer 1,Gold
+C-000002,Customer 2,Gold
+c-000002,Customer 2,Gold
+ C-000002,Customer 2,Silver
+C-000002 ,Customer 2,Gold
+C-2,Customer 2,Bronze
+C-000003,Customer 3,Gold
+c-000003,Customer 3,Gold
+ C-000003,Customer 3,Gold
+C-000003 ,Customer 3,Gold
+C-3,Customer 3,Silver
+C-000004,Customer 4,Bronze
+c-000004,Customer 4,Silver
+ C-000004,Customer 4,Silver
+C-000004 ,Customer 4,Bronze
+C-4,Customer 4,Gold
+C-000005,Customer 5,Bronze
+c-000005,Customer 5,Silver
+ C-000005,Customer 5,Silver
+C-000005 ,Customer 5,Bronze
+C-5,Customer 5,Gold
+C-000006,Customer 6,Gold
+c-000006,Customer 6,Silver
+ C-000006,Customer 6,Gold
+C-000006 ,Customer 6,Silver
+C-6,Customer 6,Silver
+C-000007,Customer 7,Gold
+c-000007,Customer 7,Gold
+ C-000007,Customer 7,Silver
+C-000007 ,Customer 7,Silver
+C-7,Customer 7,Bronze
+C-000008,Customer 8,Gold
+c-000008,Customer 8,Silver
+ C-000008,Customer 8,Silver
+C-000008 ,Customer 8,Gold
+C-8,Customer 8,Silver
+C-000009,Customer 9,Silver
+c-000009,Customer 9,Silver
+ C-000009,Customer 9,Bronze
+C-000009 ,Customer 9,Silver
+C-9,Customer 9,Gold
+C-000010,Customer 10,Silver
+c-000010,Customer 10,Bronze
+ C-000010,Customer 10,Silver
+C-000010 ,Customer 10,Silver
+C-10,Customer 10,Silver
+C-000011,Customer 11,Gold
+c-000011,Customer 11,Gold
+ C-000011,Customer 11,Bronze
+C-000011 ,Customer 11,Bronze
+C-11,Customer 11,Silver
+C-000012,Customer 12,Gold
+c-000012,Customer 12,Gold
+ C-000012,Customer 12,Silver
+C-000012 ,Customer 12,Silver
+C-12,Customer 12,Gold
+C-000013,Customer 13,Silver
+c-000013,Customer 13,Bronze
+ C-000013,Customer 13,Silver
+C-000013 ,Customer 13,Gold
+C-13,Customer 13,Silver
+C-000014,Customer 14,Silver
+c-000014,Customer 14,Silver
+ C-000014,Customer 14,Bronze
+C-000014 ,Customer 14,Silver
+C-14,Customer 14,Silver
+C-000015,Customer 15,Bronze
+c-000015,Customer 15,Bronze
+ C-000015,Customer 15,Silver
+C-000015 ,Customer 15,Gold
+C-15,Customer 15,Bronze
+C-000016,Customer 16,Gold
+c-000016,Customer 16,Bronze
+ C-000016,Customer 16,Gold
+C-000016 ,Customer 16,Silver
+C-16,Customer 16,Silver
+C-000017,Customer 17,Gold
+c-000017,Customer 17,Gold
+ C-000017,Customer 17,Bronze
+C-000017 ,Customer 17,Gold
+C-17,Customer 17,Gold
+C-000018,Customer 18,Bronze
+c-000018,Customer 18,Bronze
+ C-000018,Customer 18,Silver
+C-000018 ,Customer 18,Gold
+C-18,Customer 18,Silver
+C-000019,Customer 19,Bronze
+c-000019,Customer 19,Gold
+ C-000019,Customer 19,Bronze
+C-000019 ,Customer 19,Gold
+C-19,Customer 19,Bronze
+C-000020,Customer 20,Gold
+c-000020,Customer 20,Gold
+ C-000020,Customer 20,Silver
+C-000020 ,Customer 20,Gold
+C-20,Customer 20,Bronze

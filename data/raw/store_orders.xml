@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+  <order id="O-300001" date="2026-01-04" region="West">
+    <line sku="P-1001" quantity="2" unit_price="58.53"/>
+  </order>
+  <order id="O-300002" date="2026-01-05" region="South">
+    <line sku="P-2003" quantity="1" unit_price="129.0"/>
+  </order>
+  <order id="O-300003" date="2026-01-05" region="Midwest">
+    <line sku="P-3002" quantity="3" unit_price="39.95"/>
+  </order>
+</orders>

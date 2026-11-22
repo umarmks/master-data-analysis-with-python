@@ -1,0 +1,13 @@
+entity_key,name_variant,snapshot_date,churned
+A001,Customer 1,2025-01-01,0
+A001,Cust. 1,2025-01-02,1
+A002,Customer 2,2025-01-01,0
+A002,Cust. 2,2025-01-02,1
+A003,Customer 3,2025-01-01,0
+A003,Cust. 3,2025-01-02,1
+A004,Customer 4,2025-01-01,0
+A004,Cust. 4,2025-01-02,1
+A005,Customer 5,2025-01-01,0
+A005,Cust. 5,2025-01-02,1
+A006,Customer 6,2025-01-01,0
+A006,Cust. 6,2025-01-02,1

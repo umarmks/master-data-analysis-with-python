@@ -1,0 +1,5 @@
+{
+  "title": "Weekly expense report",
+  "input": "data/raw/expenses.csv",
+  "output": "reports/expenses_summary.txt"
+}

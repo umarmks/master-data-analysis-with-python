@@ -1,0 +1,26 @@
+customer_id,signup_date,loyalty_tier,home_region
+C-000101,2024-03-12,Gold,Midwest
+C-000102,2024-05-01,Silver,South
+C-000103,2023-11-20,Bronze,West
+C-000104,2025-01-15,Platinum,Northeast
+C-000105,2024-07-07,gold,Midwest
+C-000106, 2024-08-02,Bronze,South
+C-000107,2024-09-09,SILVER,West
+C-000108,2024-10-10,Bronze,northeast
+C-000109,2024-11-11,Bronze,North East
+C-000110,2024-12-12,Bronze,
+,2025-02-01,Bronze,West
+C-000111,2025-02-02,Unknown,West
+C-000112,2025-02-03,Bronze,West
+C-000102,2024-05-01,Silver,South
+C-000113,2025-02-04,Bronze,South
+C-000114,1900-01-01,Bronze,Midwest
+C-000115,2025-02-05,Platinum,Northeast
+C-000116,2025-13-40,Bronze,West
+C-000117,2025-02-06,Gold,Midwest
+C-000118,2025-02-07,Bronze,South
+C-000119,2025-02-08,Bronze,West
+C-000120,2025-02-09,Silver,Northeast
+C-000121,2025-02-10,Bronze,South
+C-000122,2025-02-11,Bronze,Midwest
+C-000123,2025-02-12,Bronze,West

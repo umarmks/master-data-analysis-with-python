@@ -1,0 +1,6 @@
+warehouse;order_id;order_date;product;quantity;unit_price;total;note
+München (HQ);EU-1001;05.01.2026;Ridge Tent;1;249,00;249,00;priority
+Zürich;EU-1002;05.01.2026;Trail Lantern;2;39,50;79,00;
+Wien;EU-1003;06.01.2026;Summit Boot;1;189,90;189,90;gift wrap
+Genève;EU-1004;07.01.2026;Base Layer;3;24,75;74,25;
+München (HQ);EU-1005;08.01.2026;Headlamp;1;32,00;32,00;backorder

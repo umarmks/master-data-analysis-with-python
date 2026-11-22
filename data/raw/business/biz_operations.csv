@@ -1,0 +1,13 @@
+step,step_name,avg_minutes,defects_per_1000,cost_per_order
+1,order_received,4,8,1.68
+2,payment_check,6,5,2.52
+3,fraud_screen,9,12,3.78
+4,pick_items,18,22,7.56
+5,quality_check,7,9,2.94
+6,pack,11,14,4.62
+7,label,5,6,2.1
+8,carrier_pickup,26,31,10.92
+9,transit,240,8,100.8
+10,customs,35,18,14.7
+11,last_mile,62,15,26.04
+12,delivered,6,4,2.52

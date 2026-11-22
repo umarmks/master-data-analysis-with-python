@@ -1,0 +1,10 @@
+key,value
+aov,185.0
+margin_rate,0.35
+refund_cost_share,1.0
+annual_exposed_users,1000000.0
+fx_eur_usd,1.08
+timezone_hour_cutoff,20.0
+mde_pp,2.0
+alpha,0.05
+target_power,0.8

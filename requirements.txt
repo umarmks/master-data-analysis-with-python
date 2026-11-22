@@ -1,0 +1,23 @@
+# Data Analysis with Python - pinned companion environment
+# Python 3.12 on Windows, macOS, or Linux. Install with:
+#   python -m pip install -r requirements.txt
+numpy==2.5.2
+pandas==2.2.3
+matplotlib==3.10.0
+scipy==1.18.0
+scikit-learn==1.9.0
+jinja2==3.1.6
+openpyxl==3.1.5
+pypdf==6.19.0
+requests==2.34.2
+beautifulsoup4==4.15.0
+pytest==9.1.1
+pyarrow==26.0.1
+lxml==6.1.3
+
+# Optional tooling used by guarded examples in the book. They are not
+# required to run any chapter: seaborn, plotly, and statsmodels are shown
+# with plain-matplotlib, static-HTML, and scipy substitutes respectively.
+# seaborn==0.13.2
+# plotly==6.0.0
+# statsmodels==0.14.4

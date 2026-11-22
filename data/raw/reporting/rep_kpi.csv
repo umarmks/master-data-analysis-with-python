@@ -1,0 +1,13 @@
+kpi,actual,target,prior,unit,direction,owner
+Revenue,23.52,24.8,25.1,USDm,higher,Sales lead
+Orders,131922.0,138000.0,140210.0,count,higher,Sales lead
+Conversion,0.1066,0.112,0.1108,share,higher,Growth
+AOV,178.3,180.0,179.1,USD,higher,Merchandising
+Gross margin,0.3816,0.385,0.383,share,higher,Finance
+Operating margin,0.1916,0.195,0.193,share,higher,Finance
+Return rate,0.0656,0.06,0.062,share,lower,Quality
+Campaign spend,1.07,1.1,1.02,USDm,lower,Marketing
+ROAS,1.73,1.9,1.82,ratio,higher,Marketing
+New customers,4000.0,4300.0,4200.0,count,higher,Growth
+NPS,-0.409,-0.2,-0.35,score,higher,CX
+Cycle time,7.15,6.5,6.9,hours,lower,Operations

@@ -1,0 +1,6 @@
+qid,question,answer,evidence
+1,Why did revenue fall?,"Traffic, not price or conversion",Revenue bridge; −$506k volume effect
+2,Where is it concentrated?,"South and West, 71% of the decline",Regional decomposition
+3,What can we do about it?,Fund a regional promotion pilot,Expected value $1.4m
+4,How sure are you?,Moderate; the pilot resolves it,Confidence 0.70; holdout planned
+5,What would change your mind?,A flat holdout response,Pre-agreed stop rule
