@@ -662,25 +662,10 @@ Requirements: Python 3.12, `numpy`, `pandas`.
 
 Year-over-year change in net revenue: **-6.2%**.
 
-## Licensing and GitHub
+## Licensing 
 
 The dataset is synthetic and contains no real people or companies. Treat it as
 public-domain and free to redistribute with the book's companion code.
 
-`kestrel_orders.csv` is about 41 MB. That is under GitHub's 100 MB hard limit
-but above its 50 MB warning, so pick one of these when you publish:
 
-1. **Git LFS (recommended for this file).**
-   ```bash
-   git lfs install
-   git lfs track "data/raw/*.csv"
-   git add .gitattributes
-   ```
-2. **Commit directly.** It will work, but every clone downloads the full file
-   and GitHub will warn.
-3. **Ship the generator only.** Commit `scripts/generate_kestrel_orders.py`
-   and add `data/raw/*.csv` to `.gitignore`; readers regenerate the file in
-   seconds.
 
-If you only publish a sample, keep enough rows to preserve the Q1 2025/Q1 2026
-comparison; the monthly aggregates in Chapter 1 depend on the full 27 months.
